@@ -9,7 +9,7 @@
 #define DIM 10
 #define my_exit() printf("\n\n\nPress any key to exit..."); while (!_kbhit())
 #define loop() printf("\nPress any key"); while (!_kbhit())
-//	Global DATA ----------------------------------------------------------------
+//  Global DATA ----------------------------------------------------------------
 int FACTOR = 5;
 int point = 1;
 bool end = false;
